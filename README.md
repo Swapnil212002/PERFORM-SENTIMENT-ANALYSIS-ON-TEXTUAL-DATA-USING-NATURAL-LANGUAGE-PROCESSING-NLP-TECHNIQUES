@@ -34,6 +34,9 @@ In summary, this project provides a complete pipeline for building a sentiment a
 ## OUTPUT
 
 
+<img width="601" height="269" alt="Image" src="https://github.com/user-attachments/assets/330a4491-f2df-4ba0-ae42-ad983ea1f691" />
+
+
 
 
 
